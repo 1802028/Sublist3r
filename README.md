@@ -179,20 +179,6 @@ Sublist3r is licensed under the GNU GPL license. take a look at the [LICENSE](ht
 
 
 
-744.612.368-03
-176.113.732-85
-177.488.420-86
-632.047.426-28
-053.118.280-05
-383.411.413-88
-431.280.820-14
-373.850.948-80
-936.978.467-52
-667.982.515-60
-162.567.926-29
-809.275.977-48
-145.490.641-37
-
 * Special Thanks to [Ibrahim Mosaad](https://twitter.com/ibrahim_mosaad) for his great contributions that helped in improving the tool.
 
 ## Version
