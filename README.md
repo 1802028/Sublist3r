@@ -183,3 +183,14 @@ Sublist3r is licensed under the GNU GPL license. take a look at the [LICENSE](ht
 
 ## Version
 **Current version is 1.0**
+
+
+145.490.641-37
+081.851.455-80
+011.911.686-38
+232.665.837-01
+517.495.241-98
+232.494.382-43
+289.732.173-30
+368.780.672-35
+216.387.364-13
